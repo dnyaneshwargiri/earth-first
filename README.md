@@ -1,16 +1,16 @@
 ## Introduction
 
-Earth first is a 100% authentic attemp by great mind of Dnyaneshwar Giri for better sustence of planet earth.
+Earth first is a 100% authentic attempt by great mind of Dnyaneshwar Giri for better sustence of planet earth.
 
 ### Built With
 
 Below are frameworks/ libraries used to bootstrap this project.
 
-- ![Next JS](https://img.shields.io/badge/next.js-%23404d59.svg?style=for-the-badge&logo=nextjs&logoColor=%2361DAFB)
+- ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 - ![Next UI](https://img.shields.io/badge/nextui-%23404d59.svg?style=for-the-badge&logo=nextui&logoColor=%2361DAFB)
-- ![Zustand](https://img.shields.io/badge/zustand-%23404d59.svg?style=for-the-badge&logo=zustand&logoColor=%2361DAFB)
-- ![PNPM](https://img.shields.io/badge/pnpm-%23404d59.svg?style=for-the-badge&logo=pnpm&logoColor=%2361DAFB)
-- ![FramerMotion](https://img.shields.io/badge/framermotion-%23404d59.svg?style=for-the-badge&logo=framermotion&logoColor=%2361DAFB)
+- ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![PNPM](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
+- ![FramerMotion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ## Getting Started
 
@@ -33,3 +33,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Docker
