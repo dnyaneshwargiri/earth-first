@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Introduction
+
+Earth first is a 100% authentic attemp by great mind of Dnyaneshwar Giri for better sustence of planet earth.
+
+### Built With
+
+Below are frameworks/ libraries used to bootstrap this project.
+
+- ![Next JS](https://img.shields.io/badge/next.js-%23404d59.svg?style=for-the-badge&logo=nextjs&logoColor=%2361DAFB)
+- ![Next UI](https://img.shields.io/badge/nextui-%23404d59.svg?style=for-the-badge&logo=nextui&logoColor=%2361DAFB)
+- ![Zustand](https://img.shields.io/badge/zustand-%23404d59.svg?style=for-the-badge&logo=zustand&logoColor=%2361DAFB)
+- ![PNPM](https://img.shields.io/badge/pnpm-%23404d59.svg?style=for-the-badge&logo=pnpm&logoColor=%2361DAFB)
+- ![FramerMotion](https://img.shields.io/badge/framermotion-%23404d59.svg?style=for-the-badge&logo=framermotion&logoColor=%2361DAFB)
 
 ## Getting Started
 
@@ -15,19 +27,6 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
